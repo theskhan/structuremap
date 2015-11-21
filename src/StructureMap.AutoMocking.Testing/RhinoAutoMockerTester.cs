@@ -6,6 +6,7 @@ using Rhino.Mocks.Interfaces;
 using StructureMap.Graph;
 using StructureMap.Testing;
 
+// Test fixure
 namespace StructureMap.AutoMocking.Testing
 {
     [TestFixture]
